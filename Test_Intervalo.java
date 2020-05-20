@@ -23,6 +23,8 @@ public class Test_Intervalo {
 		System.out.println("la longitud del intervalo es: " + I1.longitud());
 		//System.out.println("desplazamos el inicio en 2.5: " + I1.(2.5));
 		System.out.println("�este valor pertenece al intervalo?\n" + I1.buscar(1.0));
+
+		System.out.println("Se ha añadido este comentario");
 	}
 
 }
